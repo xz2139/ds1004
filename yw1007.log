@@ -1,25 +1,19 @@
 yw1007
-*   709d16f Merge branch 'b2'
+*   879d7f9 Merge branch 'b2'
 |\  
-| *   acf8175 Merge branch 'b21' into b2
+| *   3f0b209 Merge branch 'master' into b2
 | |\  
-| | * e670267 6th overall
-| * |   d9deaf5 Merge branch 'master' into b2
-| |\ \  
-| * | | b114925 1st on b21, 5th overall
+| * | 7fe642d b21
+* | |   028b7dc Merge branch 'master' into b1
+|\ \ \  
 | | |/  
 | |/|   
-* | |   817e6a9 Merge branch 'b11' into b1
-|\ \ \  
-| |_|/  
-|/| |   
-| * | 7590c72 1st on b11 (4 overall)
-* | |   1a7d7ec Merge branch 'b2'
-|\ \ \  
-| |/ /  
-|/| /   
-| |/    
-| * 31f1cc6 1st on b2 (3rd overall)
-* | 26d2e10 1st on b1 (2nd overall)
+| * |   13ad313 Merge branch 'b2'
+| |\ \  
+| | |/  
+| | * 8f2b54b b2
+* | | f34a33e b11
+|/ /  
+* | 334c3d9 b1
 |/  
-* 0cba9f3 1st commit on master.
+* 0c4f0e2 master
